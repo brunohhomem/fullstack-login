@@ -1,1 +1,3 @@
-# fullstack-login
+# Aplicação FullStack
+- Angular
+- Java Spring
